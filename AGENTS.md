@@ -1,7 +1,6 @@
 # AGENTS.md
 
-`shed` is a Rust command-line tool. `CLAUDE.md` is a symlink to this file;
-edit `AGENTS.md`.
+`shed` is a Rust command-line tool.
 
 ## Commands
 
